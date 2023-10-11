@@ -65,7 +65,7 @@ nav{
     width: 500px;
 }
 .banner-image{
-    background-image: url('../images/header_bg.png');
+    background-image: url('./images/header_bg.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: bottom;
